@@ -9,3 +9,4 @@ and use the api key in index.html file , below the script tag , here is screensh
 
 ![Screenshot from 2024-05-15 13-42-24](https://github.com/mehedihassan0/Weather-Web-Application/assets/106251826/4275437f-2d48-410b-8954-b8479434262e)
 
+![Screenshot from 2024-05-15 13-42-24](https://github.com/mehedihassan0/Weather-Web-Application/assets/106251826/dab81fc5-f9f2-44ef-bdf1-26d58b024197)
